@@ -1,0 +1,5 @@
+[
+  "test/model_consistency_test.py::test_predictions",
+  "test/vocab_consistency_test.py::test_token_encoder",
+  "test/vocab_consistency_test.py::test_seq_encoder"
+]
